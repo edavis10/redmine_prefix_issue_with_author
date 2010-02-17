@@ -15,10 +15,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name = "redmine_prefix_issue_with_author"
-    s.summary = "TODO"
+    s.summary = "Redmine plugin that will prefix the Issue subject with the author's name."
     s.email = "edavis@littlestreamsoftware.com"
-    s.homepage = "https://projects.littlestreamsoftware.com/projects/TODO"
-    s.description = "TODO"
+    s.homepage = "https://projects.littlestreamsoftware.com/projects/redmine-misc"
+    s.description = "Simple Redmine plugin that will convert an issue named like 'This is a bug' into 'Author Name - This is a bug'"
     s.authors = ["Eric Davis"]
     s.rubyforge_project = "TODO" # TODO
     s.files =  FileList[
