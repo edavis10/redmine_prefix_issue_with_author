@@ -4,7 +4,7 @@ Redmine plugin that will prefix the Issue subject with the author's name.
 
 == Getting the plugin
 
-A copy of the plugin can be downloaded from {Little Stream Software}[https://projects.littlestreamsoftware.com/projects/redmine-misc/files] or from {GitHub}[http://github.com/edavis10/redmine_prefix_issue_with_author]
+A copy of the plugin can be downloaded from {Little Stream Software}[https://projects.littlestreamsoftware.com/projects/redmine-misc/files], from {GitHub}[http://github.com/edavis10/redmine_prefix_issue_with_author], or from Gemcutter (gem install redmine_prefix_issue_with_author)
 
 
 == Installation and Setup
